@@ -4,7 +4,7 @@
 
 const CONFIG = {
   /* วาง URL ของ Web app (ลงท้าย /exec) ตรงนี้หลัง Deploy */
-  endpoint: "",
+  endpoint: "https://script.google.com/macros/s/AKfycbwNt5roS6NvL777xJlgYbLC3lgOjFthj55ODnAlwTv0eeTSJXiip6q3K-oX0Wis8o8QKA/exec",
   imgBase: "img/",
   fallback: "data/content.json",
   cacheMinutes: 10
